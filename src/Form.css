@@ -1,0 +1,26 @@
+.Form{
+    margin: 7rem auto;
+}
+.form-control{
+    display: block;
+    width: 300px;
+}
+form{
+    width: 400px;
+    height: auto;
+    margin: 0 auto;
+}
+.social{
+    color:black;
+    width: 100px;
+    height: 25px;
+}
+.btn-a{
+    margin-top: 10px;
+    width: 300px;
+    text-align: center;
+    
+}
+.ii{
+    padding: 2rem;
+}
